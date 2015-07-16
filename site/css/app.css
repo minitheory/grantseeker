@@ -1,0 +1,8 @@
+.amount {
+    font-size: 2em;
+    margin-top: 0.2em;
+}
+
+.card .ribbon {
+    top: -5px;
+}
